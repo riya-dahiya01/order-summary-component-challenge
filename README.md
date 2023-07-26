@@ -10,7 +10,7 @@ The Order Summary Component challenge required me to build a simple yet visually
 
 ## Demo
 
-You can see a live demo of my solution to the challenge [here](https://github.com/riya-dahiya01](https://riya-dahiya01.github.io/order-summary-component-challenge/)). 
+You can see a live demo of my solution to the challenge [here](https://riya-dahiya01.github.io/order-summary-component-challenge/). 
 
 ## Usage
 
